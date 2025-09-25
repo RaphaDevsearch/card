@@ -51,6 +51,8 @@ li{
     flex-direction: row;
     flex-wrap: wrap;
     gap: 1rem;
+
+    justify-content: center;
 }
 
 .cards-grid{
@@ -63,6 +65,7 @@ li{
         how make it in row without grif templet ??
     */
     gap: 1rem;
+    
 }
 .cards-grid-v1 {
     display: grid;
